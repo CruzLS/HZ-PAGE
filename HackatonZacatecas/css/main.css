@@ -47,7 +47,7 @@ html,
 body {
 	font-size: 16px;
 	font-weight:400;
-	background-color: #fff;
+	background-color: #ff9900;
 	font-family: 'Open Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
@@ -97,7 +97,7 @@ button {
 
 .white-color,
 .white-color a {
-	color: #fff;
+	color: #ff9900;
 }
 
 .btn {
@@ -954,7 +954,7 @@ address a {
 }
 
 .gb-schedules.width-bg {
-	background-color: #e94b4c;
+	background-color: #b30059;
 	background-attachment: fixed;
 	background-image: url(../images/bg/Schedule-bg.jpg);
 }
@@ -968,7 +968,7 @@ address a {
 	padding: 20px 40px 35px;
 	cursor: pointer;
 	position: relative;
-	border-bottom: 1px solid #ed4d54;
+	border-bottom: 1px solid #ff9900;
 }
 
 .schedule>ul>li:nth-child(even) {
@@ -1154,8 +1154,8 @@ address a {
 /* Gb Brand */
 
 .gb-brand {
-	background-color: #e94b4c;
-	background-image: url(../images/bg/brand-bg.jpg);
+	background-color:  #ff9900;
+/*	background-image: url(../images/bg/brand-bg.jpg);*/
 }
 
 .brand-slider {
@@ -1981,9 +1981,9 @@ img.mfp-img {
 
 .gb-footer {
 	padding: 35px 0;
-	border-top: 1px solid #ee4d4e;
+	border-top: 1px solid #b30059;
 	text-transform: capitalize;
-	background-color: #ee4d4e;
+	background-color: #b30059;
 }
 .gb-footer a {
 	font-weight: 700;
