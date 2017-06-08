@@ -6,7 +6,7 @@
 .navbar-default .navbar-nav li a:focus,
 .navbar-nav .gb-dropdown-menu li.active a,
 .navbar-nav .gb-dropdown-menu li a:hover {
-	background-color:  #4ddbff;
+	background-color:  #b30059;
 }
 
 
@@ -37,7 +37,7 @@
 .pagination>.active>span:hover,
 .tag-cloud a:hover,
 .gb-dropdown-menu {
-	background-color: #e94b4c;
+	background-color: #b30059;
 }
 
 a, a:hover, 
@@ -57,7 +57,7 @@ a, a:hover,
 .cta-info .btn:hover, .cta-info .btn.button-white, .gb-post .read-more a,
 .gb-post .share a, .entry-content a:hover, .pagination>li>a, 
 .pagination>li>span   {
-	color: #e94b4c;
+	color: #b30059;
 }
 
 .gb-time , .event, .btn.btn-default, .btn.button-red,
