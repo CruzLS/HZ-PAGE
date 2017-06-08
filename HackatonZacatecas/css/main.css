@@ -180,20 +180,20 @@ button {
 }
 
 .btn.button-white {
-	color: #e94b4c;
+	color: #ff9900;
 	margin-right: 10px;
-	background-color: #fff;
-	border-color: #fff;	
+	background-color: #b30059;
+	border-color: #b30059;	
 }
 
 .btn.button-white:before,
 .btn.button-white:after {
-	border-top-color: #e94b4c;
-	border-bottom-color: #e94b4c;
+	border-top-color: #ff9900;
+	border-bottom-color: #ff9900;
 }
 
 .btn.button-white:hover {
-	color: #fff;
+	color: #b30059;
 }
 
 .form-control {
