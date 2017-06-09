@@ -69,7 +69,7 @@ a {
 color: #e23c3b;
 	} 
 a:hover {
-	color: #e94b4c;
+	color: #b30059;
 }
 
 a:active,
@@ -174,9 +174,9 @@ button {
 }
 
 .button-red:hover {
-	color: #e94b4c;
+	color: #ff9900;
 	background-color: #fff;
-	border-color: #e94b4c;
+	border-color: #ff9900;
 }
 
 .btn.button-white {
