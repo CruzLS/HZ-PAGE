@@ -89,6 +89,11 @@ button {
 	border: none;
 }
 
+.tamanio{
+	width: 230px;
+	height: 45px;
+}
+
 .gb-list {
 	margin: 0;
 	padding: 0;
