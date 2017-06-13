@@ -1011,6 +1011,21 @@ address a {
 	display: block;
 }
 
+.imgIndx{
+	display: block;
+    margin: auto;
+    width: 40%;
+        float: right;
+    padding: 5px;
+
+}
+
+.centrados{
+	padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+}
 .author-image img {
 	width: 100%;
 	height: 100%;
