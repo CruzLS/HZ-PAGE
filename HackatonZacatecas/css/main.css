@@ -1794,7 +1794,7 @@ blockquote {
 }
 
 .gallery-overlay .social {
-	position: absolute;
+	position: center;
 	right: 0;
 	bottom: 0;
 	padding: 15px;
